@@ -2,7 +2,7 @@
 
 ### by Shannon Appelcline
 
-### v1.0.2 (RWOT10)
+## v1.0.2 (RWOT10)
 
 __ACL:__ _Access Control List._ An authorization methodology where permissions are attached to an object as a list of who can access that object and in what way.
 
