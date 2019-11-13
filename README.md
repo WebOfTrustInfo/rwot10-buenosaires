@@ -2,7 +2,7 @@
 
 This repository contains documents related to RWOT10, the tenth
 Rebooting the Web of Trust design workshop, which will be held
-in Buenos Aires, Argentina, March 16th to March 20th, 2020.
+in Buenos Aires, Argentina, from the evening of March 16th to the late afternoon of March 20th, 2020.
 
 The goal of the workshop is to generate five technical white papers 
 and/or proposals on topics decided by the group that would have the 
