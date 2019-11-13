@@ -1,6 +1,6 @@
 ## Rebooting Web of Trust Paper Proposal
 
-If you're adding a **Demo Proposal**, please [open an Issue](https://github.com/WebOfTrustInfo/rwot9-prague/issues/new/choose) 
+If you're adding a **Demo Proposal**, please [open an Issue](https://github.com/WebOfTrustInfo/rwot10-buenosaires/issues/new/choose) 
 instead (and select the Demo template). 
 
 #### Paper Proposal Checklist
@@ -15,6 +15,7 @@ instead (and select the Demo template).
     * [Paper Title](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/your_paper_filename.md)
       * by <authors>
       * <paper abstract>
+      * <hashtags>
     ```
     Note the full (not relative) URL.
 3. In the same file, add a link to your paper to the 
