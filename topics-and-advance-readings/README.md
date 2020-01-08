@@ -29,13 +29,13 @@ really, read as much as you can!)
 
 ## Topical Listing
 
-### [Your Category]
+### DID
 
-[Your Paper]
-  * by [Your Authors]
-  * "Your Synopsis"
-  * #[your-hashtags]
+[DID and the Web](DID_and_the_Web.md)
+  * by [Ivan Herman](https://www.w3.org/People/Ivan/)
+  * "The DID (and VC) Use Cases documents have a number of interesting use cases, from health care application to university credentials, or from corporate tax issues to travel documents. There is, however, comparatively little about what the use cases and requirements are on the relationship of DIDs (and VC's) _and the Web_."
+  * #did #web #semanticweb #outreach
 
 ## Alphabetical Listing
 
-* [Your Paper]
+* [DID and the Web](DID_and_the_Web.md)
