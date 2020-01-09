@@ -3,7 +3,7 @@
 *This is a community document maintained by co-editors Drummond Reed and
 Manu Sporny and other contributors and implementers of the*
 [**Decentralized Identifier 1.0
-specification**](https://w3c-ccg.github.io/did-spec/)*.*
+specification**](https://w3c.github.io/did-core/)*.*
 
 ## Introduction
 
@@ -101,9 +101,8 @@ describe the public keys, authentication protocols, and service endpoints
 necessary to bootstrap cryptographically-verifiable interactions with
 the identified entity.
 
-A DID document is a valid [*JSON-LD
-object*](https://json-ld.org/spec/latest/json-ld/) that uses the **DID
-context** (the RDF vocabulary of property names) defined in the DID
+A DID document is either a [*JSON*](https://tools.ietf.org/html/rfc8259) object
+or a [*JSON-LD*](https://json-ld.org/spec/latest/json-ld/) object supporting the property names defined in the DID
 specification. This includes six components (all optional):
 
 1.  **The DID itself**, so the DID document is fully self-describing.
@@ -116,9 +115,9 @@ specification. This includes six components (all optional):
 
 5.  **Timestamps** for auditing.
 
-6.  **A optional JSON-LD signature** if needed to verify the integrity of the DID document.
+6.  **An optional signature** if needed to verify the integrity of the DID document.
 
-See the [*DID specification*](https://w3c-ccg.github.io/did-spec/) for
+See the [*DID specification*](https://w3c.github.io/did-core/) for
 several examples of DID documents.
 
 ## DID Methods
@@ -187,11 +186,13 @@ Besides the links throughout this primer, these additional resources are
 available to anyone interested in joining the communities that are actively
 developing specifications, experiments, and pilot projects.
 
--   [*W3C Verifiable Claims Working Group mailing list*](https://www.w3.org/community/credentials/)
+-   [*W3C Decentralized Identifier Working Group*](https://www.w3.org/2019/did-wg/)
+
+-   [*W3C Verifiable Claims Working Group*](https://www.w3.org/2017/vc/WG/)
 
 -   [*W3C Credentials Community Group*](https://w3c-ccg.github.io)
 
--   [*DID specification issues list*](https://github.com/w3c-ccg/did-spec/issues/)
+-   [*DID Core specification issues list*](https://github.com/w3c/did-core/issues)
 
 -   [*Rebooting the Web of Trust event*](http://www.weboftrust.info/) (held every six months)
 
