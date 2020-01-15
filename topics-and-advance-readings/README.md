@@ -36,6 +36,15 @@ really, read as much as you can!)
   * "The DID (and VC) Use Cases documents have a number of interesting use cases, from health care application to university credentials, or from corporate tax issues to travel documents. There is, however, comparatively little about what the use cases and requirements are on the relationship of DIDs (and VC's) _and the Web_."
   * #did #web #semanticweb #outreach
 
+### Encrypted Data Vault
+
+[An Encrypted Data Vault Sprint](edv-sprint.md)
+  * by [Manu Sporny](https://www.linkedin.com/in/manusporny/)
+  * "A list of suggestions on work that could be completed at RWOT10 to move the Encrypted Data Vault specification forward."
+  * #ssi #storage #edv
+
 ## Alphabetical Listing
 
 * [DID and the Web](DID_and_the_Web.md)
+* [An Encrypted Data Vault Sprint](edv-sprint.md)
+
