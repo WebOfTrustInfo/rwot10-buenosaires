@@ -29,6 +29,13 @@ really, read as much as you can!)
 
 ## Topical Listing
 
+### Authorization and Delegation
+
+[Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
+  * by [Adrian Gropper](mailto:agropper@healthurl.com)
+  * "Identity, identifiers and credentials are not an end in themselves. They are essential ingredients, among others, for practical transactions involving multiple parties. Decentralization challenges transaction protocols that support self-sovereignty for individuals in highly asymmetric relationships with institutions. The Alice to Bob Use Case merges the SSI and open authorization domains to speed adoption of emerging standards while also promoting decentralization."
+  * #did #web #outreach #authorization #storage
+
 ### DID
 
 [DID and the Web](DID_and_the_Web.md)
@@ -45,6 +52,8 @@ really, read as much as you can!)
 
 ## Alphabetical Listing
 
+* [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [DID and the Web](DID_and_the_Web.md)
 * [An Encrypted Data Vault Sprint](edv-sprint.md)
+
 
