@@ -67,8 +67,9 @@ really, read as much as you can!)
   * #creative #communications #outreach
 
 ## Alphabetical Listing
-
+* [An Encrypted Data Vault Sprint](edv-sprint.md)
+* [An RWOT Animation Project](decentralized_animation_creative_brief.md)
 * [Bearing Witness](bearing-witness.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [DID and the Web](DID_and_the_Web.md)
-* [An Encrypted Data Vault Sprint](edv-sprint.md)
+  
