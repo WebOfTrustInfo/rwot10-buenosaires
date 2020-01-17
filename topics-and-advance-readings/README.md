@@ -52,6 +52,12 @@ really, read as much as you can!)
   digital ecology - or does it have no place at all?"
   * #ssi-lite
 
+[Building a Self-Issued OpenID Connect Provider](building-a-self-issued-openid-connect-provider.md)
+  * by [Peter Saxton](mailto:peterhsaxton@gmail.com)
+  * What is the smallest step towards adopting a system of decentralized credentials?
+  Can we build a compelling Self-Issued OpenID Connect Provider today.
+  * #authentication #web #oidc
+
 
 ### Encrypted Data Vault
 
@@ -69,6 +75,7 @@ really, read as much as you can!)
 ## Alphabetical Listing
 
 * [Bearing Witness](bearing-witness.md)
+* [Building a Self-Issued OpenID Connect Provider](building-a-self-issued-openid-connect-provider.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [DID and the Web](DID_and_the_Web.md)
 * [An Encrypted Data Vault Sprint](edv-sprint.md)
