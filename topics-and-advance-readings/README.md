@@ -50,6 +50,12 @@ really, read as much as you can!)
   * "A list of suggestions on work that could be completed at RWOT10 to move the Encrypted Data Vault specification forward."
   * #ssi #storage #edv
 
+### Communication
+[An RWOT Animation Project](decentralized_animation_creative_brief.md)
+  * by [Erica Connell](http://wonderlandstageandscreen.com) and [Joe Andrieu](https://joeandrieu.com)
+  * A creative brief for a proposed 1 minute animation on decentralized identity
+  * #creative #communications #outreach
+
 ## Alphabetical Listing
 
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
