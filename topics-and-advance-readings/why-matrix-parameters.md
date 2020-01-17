@@ -243,6 +243,10 @@ identified by the DID URL (a `hl` query parameter):
 did:ex:123;service=files;hl=zQmWvQ/myresume/doc?hl=zQrMLp#intro
 ```
 
+Yet another useful matrix parameter is `initial-values`, which can include a hint for the DID resolution
+process to be able to obtain the DID document that may not have been fully created or anchored yet
+by a DID method [7].
+
 ## 8. Conclusion
 
 Let's not be scared by the fact that matrix parameters are an old proposal that never saw
@@ -253,7 +257,7 @@ DIDs fit in with Web architecture, and let's discuss the pros and cons of this s
 
 This content is also available in a more readable slide form at [https://github.com/w3c-ccg/meetings/tree/gh-pages/2020-01-16-did-resolution](https://github.com/w3c-ccg/meetings/tree/gh-pages/2020-01-16-did-resolution).
 
-For the initial discussion in the W3C Credentials Community Group [7] that eventually led to matrix parameters in DID URLs, see [https://github.com/w3c-ccg/did-spec/issues/90](https://github.com/w3c-ccg/did-spec/issues/90).
+For the initial discussion in the W3C Credentials Community Group [8] that eventually led to matrix parameters in DID URLs, see [https://github.com/w3c-ccg/did-spec/issues/90](https://github.com/w3c-ccg/did-spec/issues/90).
 
 ## References
 
@@ -269,4 +273,6 @@ For the initial discussion in the W3C Credentials Community Group [7] that event
 
 [6] https://tools.ietf.org/html/draft-sporny-hashlink-02
 
-[7] https://www.w3.org/community/credentials/
+[7] https://github.com/w3c/did-core/pull/84
+
+[8] https://www.w3.org/community/credentials/
