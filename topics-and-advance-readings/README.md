@@ -43,6 +43,16 @@ really, read as much as you can!)
   * "The DID (and VC) Use Cases documents have a number of interesting use cases, from health care application to university credentials, or from corporate tax issues to travel documents. There is, however, comparatively little about what the use cases and requirements are on the relationship of DIDs (and VC's) _and the Web_."
   * #did #web #semanticweb #outreach
 
+### Ecosystem Development
+
+[Bearing Witness](bearing-witness.md)
+  * by [Eric Welton](mailto:eric@korsimoro.com)
+  * "How does verifying a pre-existing credential differ from primary
+  issuance.  How can the act of __bearing witness__ to a credential become part of the
+  digital ecology - or does it have no place at all?"
+  * #ssi-lite
+
+
 ### Encrypted Data Vault
 
 [An Encrypted Data Vault Sprint](edv-sprint.md)
@@ -52,8 +62,7 @@ really, read as much as you can!)
 
 ## Alphabetical Listing
 
+* [Bearing Witness](bearing-witness.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [DID and the Web](DID_and_the_Web.md)
 * [An Encrypted Data Vault Sprint](edv-sprint.md)
-
-
