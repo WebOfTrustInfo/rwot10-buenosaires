@@ -43,6 +43,11 @@ really, read as much as you can!)
   * "The DID (and VC) Use Cases documents have a number of interesting use cases, from health care application to university credentials, or from corporate tax issues to travel documents. There is, however, comparatively little about what the use cases and requirements are on the relationship of DIDs (and VC's) _and the Web_."
   * #did #web #semanticweb #outreach
 
+[Why Matrix Parameters?](why-matrix-parameters.md)
+  * by [Markus Sabadello](https://danubetech.com/)
+  * "Matrix parameters are a syntax component of DID URLs that make it possible to include parameters for the DID resolution process in a DID URL. This topic paper discussed why the community introduced matrix parameters in DID URL syntax, and how their use is different from the more familiar query parameters."
+  * #did #url #matrixparameters
+
 ### Ecosystem Development
 
 [Bearing Witness](bearing-witness.md)
@@ -72,4 +77,4 @@ really, read as much as you can!)
 * [Bearing Witness](bearing-witness.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [DID and the Web](DID_and_the_Web.md)
-  
+* [Why Matrix Parameters?](why-matrix-parameters.md)
