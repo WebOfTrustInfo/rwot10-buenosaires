@@ -5,7 +5,7 @@ In advance of the design workshop, all participants produced a one-or-two page t
 * A specific problem that they wanted to solve with a web-of-trust solution, and why current solutions (PGP or CA-based PKI) can't address the problem?
 * A specific solution related to the web-of-trust that you'd like others to use or contribute to?
 
-If you will be attending Rebooting the Web of Trust Fall 2019 in Prague, the Czech Republic, please upload your topic papers and advanced readings to this directory with a pull request.
+If you will be attending Rebooting the Web of Trust Spring 2020 in Buenos Aires, Argentina, please upload your topic papers and advanced readings to this directory with a pull request.
 
 ## Pull Request Submission
 
@@ -36,9 +36,22 @@ really, read as much as you can!)
   * "Identity, identifiers and credentials are not an end in themselves. They are essential ingredients, among others, for practical transactions involving multiple parties. Decentralization challenges transaction protocols that support self-sovereignty for individuals in highly asymmetric relationships with institutions. The Alice to Bob Use Case merges the SSI and open authorization domains to speed adoption of emerging standards while also promoting decentralization."
   * #did #web #outreach #authorization #storage
 
+### Compliance
+
+[Credential Types for Compliance](credential_types_for_compliance.md)
+
+  * by [Rieks Joosten](mailto:rieks.joosten@tno.nl)
+
+  * Creating what one might call an SSI infrastructure is one thing, actually using it is quite another. A prerequisite for using it is a positive business case, and for may, also (provable) compliance with applicable laws, regulations and policies. This paper aims to come to grips with this compliance aspect. 
+
+    While the contents and structure are intentionally left open, an illustration is given of how this might work, using the [Mya use-cases](https://drive.google.com/file/d/10sfYKp6Ohi_rLsNqb1GBrhuE0IuoBX2k/view) of the [whitepaper](https://sovrin.org/wp-content/uploads/Guardianship-Whitepaper.pdf) on guardianship of the [Sovrin Guardianship Task Force](https://docs.google.com/document/d/1ymWzCwu2Ud6FMGZdU8md03KCvaxmT41-gQYIRXo09Xw/edit#heading=h.8oej31ec0two). It also gives a basis for discussing/developing credential types for compliance-related purposes, such as for guardianship, mandates and delegation.
+
+  * #compliance #jurisdiction #guardianship #mandates #delegation 
+
 ### DID
 
 [DID and the Web](DID_and_the_Web.md)
+
   * by [Ivan Herman](https://www.w3.org/People/Ivan/)
   * "The DID (and VC) Use Cases documents have a number of interesting use cases, from health care application to university credentials, or from corporate tax issues to travel documents. There is, however, comparatively little about what the use cases and requirements are on the relationship of DIDs (and VC's) _and the Web_."
   * #did #web #semanticweb #outreach
@@ -82,6 +95,7 @@ really, read as much as you can!)
 * [An RWOT Animation Project](decentralized_animation_creative_brief.md)
 * [Bearing Witness](bearing-witness.md)
 * [Building a Self-Issued OpenID Connect Provider](building-a-self-issued-openid-connect-provider.md)
+* [Credential Types for Compliance](credential_types_for_compliance.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [DID and the Web](DID_and_the_Web.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
