@@ -90,6 +90,14 @@ really, read as much as you can!)
   * A creative brief for a proposed 1 minute animation on decentralized identity
   * #creative #communications #outreach
 
+### Confidential Computing
+
+[TEE & VC As Privacy Proofs](tee-privacy-vc.md)
+
+  * by Tarek El-Gillani ([tarek@cloudmask.com](mailto:tarek@cloudmask.com))
+  * "Using VCs and Trusted Execution Environment, Applications developers/providers can demonstrate to end-users that they indeed restrict access to their private data for the agreed-upon purpose and time duration."
+  * #tee #vc #privacy
+
 ## Alphabetical Listing
 * [An Encrypted Data Vault Sprint](edv-sprint.md)
 * [An RWOT Animation Project](decentralized_animation_creative_brief.md)
@@ -98,4 +106,5 @@ really, read as much as you can!)
 * [Credential Types for Compliance](credential_types_for_compliance.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [DID and the Web](DID_and_the_Web.md)
+* [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
