@@ -1,6 +1,6 @@
 # Mapping adequacies: explicit guidance for pragmatists, corner cutters, and the impatient
 
-by Juan Caballero ( <a href="mailto:caballerojuan_AT_pm.me">replace _AT_ with @ for email</a> )
+by Juan Caballero \( [email]("mailto:caballerojuan_AT_pm.me") \)
 
 The RWoT community skews towards CTOs, perfectionists, over-engineerers, and people with decades of experience building production-grade software.  But as standards largely incubated here go mainstream, a whole range of people all over the world are going to start cloning repos and hacking together things willy-nilly.  My proposal for this particular juncture in the history of the now-live specs would be to take a step back and do a pass of highly **pessimistic**, skeptical, bad-faith editing towards past and current documentation: How badly could this get f*&^d up in the hands of a bunch of script kitties?  
 I personally *do not* think shaming people for cutting corners is going to help adoption or decentralization-- but we can promote thinking in tiers and relative terms rather than absolute ones about *contextual* sovereignty or *degrees* of privacy-preservations. Making a case for building some things the slow/hard way so as to minimize the chances of needing to be rebuilt/refactored later is best done in an even-handed, understanding, nonjudgmental way.
