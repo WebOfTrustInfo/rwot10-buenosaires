@@ -8,6 +8,8 @@ The goal of the workshop is to generate five technical white papers
 and/or proposals on topics decided by the group that would have the 
 greatest impact on the future.
 
+If you'd like to join us, you can sign up at <a href="https://www.eventbrite.com/e/rebooting-the-web-of-trust-x-2020a-buenos-aires-tickets-87248431407">Eventbrite</a>.
+
 ## Topics & Advance Readings
 
 In advance of the design workshop, all participants are invited to contribute a
