@@ -76,7 +76,7 @@ really, read as much as you can!)
   Can we build a compelling Self-Issued OpenID Connect Provider today.
   * #authentication #web #oidc
 
-[Mapping adequacies:](mapping_adequacies.md)
+[Mapping adequacies:](mapping-adequacies.md)
   * by [Juan Caballero]("mailto:caballerojuan_AT_pm.me")
   * A set of heuristics that could help documentation of best-practices and not-best-practices be widely understood by technical and non-technical readers with a wide range of levels of experience and agendas.
   * #documentation #compliance #ssi-lite #bestpractices
