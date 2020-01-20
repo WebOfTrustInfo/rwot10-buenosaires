@@ -76,6 +76,10 @@ really, read as much as you can!)
   Can we build a compelling Self-Issued OpenID Connect Provider today.
   * #authentication #web #oidc
 
+[Mapping adequacies:](mapping_adequacies.md)
+  * by [Juan Caballero]("mailto:caballerojuan_AT_pm.me")
+  * A set of heuristics that could help documentation of best-practices and not-best-practices be widely understood by technical and non-technical readers with a wide range of levels of experience and agendas.
+  * #documentation #compliance #ssi-lite #bestpractices
 
 ### Encrypted Data Vault
 
@@ -106,5 +110,6 @@ really, read as much as you can!)
 * [Credential Types for Compliance](credential_types_for_compliance.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [DID and the Web](DID_and_the_Web.md)
+* [Mapping adequacies:](mapping_adequacies.md)
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
