@@ -61,6 +61,11 @@ really, read as much as you can!)
   * "Matrix parameters are a syntax component of DID URLs that make it possible to include parameters for the DID resolution process in a DID URL. This topic paper discussed why the community introduced matrix parameters in DID URL syntax, and how their use is different from the more familiar query parameters."
   * #did #url #matrixparameters
 
+[Interplanetary Linked Data (IPLD) using CBOR and COSE-signed payloads ](ipld-cbor.md)
+  * by [jonnycrunch](https://github.com/jonnycrunch)
+  * "In this paper, I aim to discuss Concise Binary Object Representation (CBOR), which is the native data format used when storing IPLD objects and why it is a superior document syntax for representing DID documents.  In making my case, I will also explain how content addressing through hash-based linking is a better approach as compared to [JSON-LD]((https://www.w3.org/TR/json-ld/)) and how to cryptographically sign a CBOR data in IPLD using COSE."
+  * #did #ipld #cbor #cose
+
 ### Ecosystem Development
 
 [Bearing Witness](bearing-witness.md)
