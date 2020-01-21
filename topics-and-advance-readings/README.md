@@ -76,6 +76,11 @@ really, read as much as you can!)
   Can we build a compelling Self-Issued OpenID Connect Provider today.
   * #authentication #web #oidc
 
+]Digital Wallets: Interoperability support for multiple data hubs, data services and portability](digital-wallets-interoperability-support-for-multiple-data-hubs-data-services-and-portability.md)
+  * by [Ron Kreutzer](mailto:ron@pillarproject.io)
+  * Multiple data hubs/vaults/lockers will likely exist in a user's identity ecosystem, and digital wallets must be able to interact with a variety of storage providers as well as data services that act upon this data. A set of standards or operating principles need to exist to allow interoperability as well as portability that allow a user to swap digital wallet providers.
+  * #digitalwallet #datavault
+
 [Mapping adequacies:](mapping-adequacies.md)
   * by [Juan Caballero]("mailto:caballerojuan_AT_pm.me")
   * A set of heuristics that could help documentation of best-practices and not-best-practices be widely understood by technical and non-technical readers with a wide range of levels of experience and agendas.
@@ -109,6 +114,7 @@ really, read as much as you can!)
 * [Building a Self-Issued OpenID Connect Provider](building-a-self-issued-openid-connect-provider.md)
 * [Credential Types for Compliance](credential_types_for_compliance.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
+* ]Digital Wallets: Interoperability support for multiple data hubs, data services and portability](digital-wallets-interoperability-support-for-multiple-data-hubs-data-services-and-portability.md)
 * [DID and the Web](DID_and_the_Web.md)
 * [Mapping adequacies:](mapping-adequacies.md)
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
