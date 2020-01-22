@@ -230,6 +230,27 @@ based on the requirements and best practices set forth in [*NIST Special Publica
 800-130*](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-130.pdf),
 “A Framework for Designing Key Management Systems”.
 
+### DID Resolution
+
+DID resolution is the process of obtaining a DID document for a given DID. This is
+one of four required operations that can be performed on any DID ("Read"; the other ones are
+Create", "Update", and "Deactivate"). Even though the details of these operations are
+defined by the applicable DID method, there is still a need for a
+[separate specification](https://w3c-ccg.github.io/did-resolution/)
+that defines the function and architecture of DID resolvers, the inputs and results of the
+DID resolution process, and the different scenarios and trust characteristics of how a
+DID resolver can be deployed and used. This process allows DID-enabled applications and
+services to discover the machine-readable metadata about the DID subject that is expressed
+by the DID document.
+
+Note that unlike DNS resolution, DID resolution is not a single client-server protocol;
+rather, it is an abstract function that can be invoked in various ways (e.g. as a local
+library, or as a hosted service).
+
+Building on top of DID resolution, DID URL Dereferencing is the process of
+retrieving a representation of a resource for a given DID URL. DID resolution and DID URL
+dereferencing are fully aligned with basic URL and Web architecture.
+
 ### DID TLS
 
 Today's TLS infrastructure uses [*X.509
