@@ -1,9 +1,9 @@
-# DID Primer Spring 2018
+# DID Primer Spring 2018 (links/terms updated Spring 2020)
 
 *This is a community document maintained by co-editors Drummond Reed and
 Manu Sporny and other contributors and implementers of the*
 [**Decentralized Identifier 1.0
-specification**](https://w3c-ccg.github.io/did-spec/)*.*
+specification**](https://w3c.github.io/did-core/)*.*
 
 ## Introduction
 
@@ -36,7 +36,7 @@ covers:
 
 -   Privacy considerations for the use of DIDs.
 
--   How DID infrastructure lays the foundation for **verifiable claims**.
+-   How DID infrastructure lays the foundation for **verifiable credentials**.
 
 ## Setting the Stage: The Origin of DIDs
 
@@ -78,6 +78,10 @@ below) is continuing at RWOT and IIW events held every six months, as
 well as other industry events and conferences. See Appendix A for a list
 of resources and ways to become involved in the DID family of
 specifications.
+
+In September of 2019, the [*W3C Decentralized Identifier Working
+Group*](https://www.w3.org/2019/did-wg/) was started to turn the
+specification into a formal W3C standard.
 
 ## How DIDs Differ from Other Globally Unique Identifiers
 
@@ -142,9 +146,9 @@ describe the public keys, authentication protocols, and service endpoints
 necessary to bootstrap cryptographically-verifiable interactions with 
 the identified entity.
 
-A DID document is a valid [*JSON-LD
-object*](https://json-ld.org/spec/latest/json-ld/) that uses the **DID
-context** (the RDF vocabulary of property names) defined in the DID
+A DID document is either a [*JSON*](https://tools.ietf.org/html/rfc8259) object
+or a [*JSON-LD*](https://json-ld.org/spec/latest/json-ld/) object supporting the
+property names defined in the DID
 specification. This includes six components (all optional):
 
 1.  **The DID itself**, so the DID document is fully self-describing.
@@ -157,9 +161,9 @@ specification. This includes six components (all optional):
 
 5.  **Timestamps** for auditing.
 
-6.  **A optional JSON-LD signature** if needed to verify the integrity of the DID document.
+6.  **An optional signature** if needed to verify the integrity of the DID document.
 
-See the [*DID specification*](https://w3c-ccg.github.io/did-spec/) for
+See the [*DID specification*](https://w3c.github.io/did-core/) for
 several examples of DID documents.
 
 ## DID Methods
@@ -308,17 +312,15 @@ privacy-preserving technology if deployed using best practices such as:
 
 3.  **Selective disclosure.** The decentralized PKI (DPKI) that DIDs make possible opens the door to individuals gaining greater control over their personal data in two ways. First, it enables it to be shared using encrypted digital credentials (see below). Second, these credentials can use [*zero-knowledge proof cryptography*](https://en.wikipedia.org/wiki/Zero-knowledge_proof) for [*data minimization*](https://www.forbes.com/sites/bernardmarr/2016/03/16/why-data-minimization-is-an-important-concept-in-the-age-of-big-data/), e.g., you can disclose that you are over a certain age without disclosing your exact birthdate.
 
-## DIDs and Verifiable Claims
+## DIDs and Verifiable Credentials
 
 DIDs are only the base layer of decentralized identity infrastructure.
 The next higher layer -- where most of the value is unlocked -- is
-**verifiable claims**. This is the technical term for a digitally signed
-electronic credential that conforms to the interoperability standards
-being developed by the [*W3C Verifiable Claims Working
-Group*](https://www.w3.org/2017/vc/charter.html). For a complete introduction, please see the [*Verifiable Claims Primer*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/verifiable-claims-primer.md).
+**verifiable credentials**. This is the technical term for a digitally signed
+electronic credential that conforms to the [*W3C Verifiable Credentials Data Model 1.0 specification*](https://www.w3.org/TR/vc-data-model/). For a complete introduction, please see the [*Verifiable Credentials Primer*](verifiable-credentials-primer.md).
 
 The diagram below (from Manu Sporny) illustrates the three primary roles
-in the verifiable claims ecosystem: **issuers** sign claims and give
+in the verifiable credentials ecosystem: **issuers** sign claims and give
 them to **holders** (identity owners) who present them to **verifiers**
 who verify the signatures in order to grant access to resources.
 
@@ -327,7 +329,7 @@ who verify the signatures in order to grant access to resources.
 Note that in all three cases, the parties interact with the DID layer to
 register DIDs as persistent identifiers for issuers or holders, and to
 resolve those DIDs to obtain the public keys needed to verify the
-signature of an issuer or holder. Since any issuer may provide claims to
+signature of an issuer or holder. Since any issuer may provide credentials to
 any holder who may present them to any verifier, this results in set of
 rich, interlocking trust relationships that do not need to conform to
 any pre-established hierarchy -- a **web of trust**.
@@ -337,7 +339,9 @@ any pre-established hierarchy -- a **web of trust**.
 Besides the links throughout this primer, these additional resources are
 available to anyone interested in joining the DID community.
 
--   [*W3C Verifiable Claims Working Group mailing list*](https://www.w3.org/community/credentials/)
+-   [*W3C Decentralized Identifier Working Group*](https://www.w3.org/2019/did-wg/)
+
+-   [*W3C Verifiable Credentials Working Group*](https://www.w3.org/2017/vc/WG/)
 
 -   [*W3C Credentials Community Group*](https://w3c-ccg.github.io)
 
