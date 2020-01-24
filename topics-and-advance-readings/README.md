@@ -36,22 +36,31 @@ really, read as much as you can!)
   * "Identity, identifiers and credentials are not an end in themselves. They are essential ingredients, among others, for practical transactions involving multiple parties. Decentralization challenges transaction protocols that support self-sovereignty for individuals in highly asymmetric relationships with institutions. The Alice to Bob Use Case merges the SSI and open authorization domains to speed adoption of emerging standards while also promoting decentralization."
   * #did #web #outreach #authorization #storage
 
+### Communication
+
+[An RWOT Animation Project](decentralized_animation_creative_brief.md)
+  * by [Erica Connell](http://wonderlandstageandscreen.com) and [Joe Andrieu](https://joeandrieu.com)
+  * A creative brief for a proposed 1 minute animation on decentralized identity
+  * #creative #communications #outreach
+  
 ### Compliance
 
 [Credential Types for Compliance](credential_types_for_compliance.md)
-
   * by [Rieks Joosten](mailto:rieks.joosten@tno.nl)
-
   * Creating what one might call an SSI infrastructure is one thing, actually using it is quite another. A prerequisite for using it is a positive business case, and for may, also (provable) compliance with applicable laws, regulations and policies. This paper aims to come to grips with this compliance aspect. 
-
-    While the contents and structure are intentionally left open, an illustration is given of how this might work, using the [Mya use-cases](https://drive.google.com/file/d/10sfYKp6Ohi_rLsNqb1GBrhuE0IuoBX2k/view) of the [whitepaper](https://sovrin.org/wp-content/uploads/Guardianship-Whitepaper.pdf) on guardianship of the [Sovrin Guardianship Task Force](https://docs.google.com/document/d/1ymWzCwu2Ud6FMGZdU8md03KCvaxmT41-gQYIRXo09Xw/edit#heading=h.8oej31ec0two). It also gives a basis for discussing/developing credential types for compliance-related purposes, such as for guardianship, mandates and delegation.
-
+  * While the contents and structure are intentionally left open, an illustration is given of how this might work, using the [Mya use-cases](https://drive.google.com/file/d/10sfYKp6Ohi_rLsNqb1GBrhuE0IuoBX2k/view) of the [whitepaper](https://sovrin.org/wp-content/uploads/Guardianship-Whitepaper.pdf) on guardianship of the [Sovrin Guardianship Task Force](https://docs.google.com/document/d/1ymWzCwu2Ud6FMGZdU8md03KCvaxmT41-gQYIRXo09Xw/edit#heading=h.8oej31ec0two). It also gives a basis for discussing/developing credential types for compliance-related purposes, such as for guardianship, mandates and delegation.
   * #compliance #jurisdiction #guardianship #mandates #delegation 
 
+### Confidential Computing
+
+[TEE & VC As Privacy Proofs](tee-privacy-vc.md)
+  * by Tarek El-Gillani ([tarek@cloudmask.com](mailto:tarek@cloudmask.com))
+  * "Using VCs and Trusted Execution Environment, Applications developers/providers can demonstrate to end-users that they indeed restrict access to their private data for the agreed-upon purpose and time duration."
+  * #tee #vc #privacy
+  
 ### DID
 
 [DID and the Web](DID_and_the_Web.md)
-
   * by [Ivan Herman](https://www.w3.org/People/Ivan/)
   * "The DID (and VC) Use Cases documents have a number of interesting use cases, from health care application to university credentials, or from corporate tax issues to travel documents. There is, however, comparatively little about what the use cases and requirements are on the relationship of DIDs (and VC's) _and the Web_."
   * #did #web #semanticweb #outreach
@@ -91,7 +100,7 @@ really, read as much as you can!)
   * Multiple data hubs/vaults/lockers will likely exist in a user's identity ecosystem, and digital wallets must be able to interact with a variety of storage providers as well as data services that act upon this data. A set of standards or operating principles need to exist to allow interoperability as well as portability that allow a user to swap digital wallet providers.
   * #digitalwallet #datavault
 
-[Mapping adequacies:](mapping-adequacies.md)
+[Mapping Adequacies](mapping-adequacies.md)
   * by [Juan Caballero]("mailto:caballerojuan_AT_pm.me")
   * A set of heuristics that could help documentation of best-practices and not-best-practices be widely understood by technical and non-technical readers with a wide range of levels of experience and agendas.
   * #documentation #compliance #ssi-lite #bestpractices
@@ -103,20 +112,6 @@ really, read as much as you can!)
   * "A list of suggestions on work that could be completed at RWOT10 to move the Encrypted Data Vault specification forward."
   * #ssi #storage #edv
 
-### Communication
-[An RWOT Animation Project](decentralized_animation_creative_brief.md)
-  * by [Erica Connell](http://wonderlandstageandscreen.com) and [Joe Andrieu](https://joeandrieu.com)
-  * A creative brief for a proposed 1 minute animation on decentralized identity
-  * #creative #communications #outreach
-
-### Confidential Computing
-
-[TEE & VC As Privacy Proofs](tee-privacy-vc.md)
-
-  * by Tarek El-Gillani ([tarek@cloudmask.com](mailto:tarek@cloudmask.com))
-  * "Using VCs and Trusted Execution Environment, Applications developers/providers can demonstrate to end-users that they indeed restrict access to their private data for the agreed-upon purpose and time duration."
-  * #tee #vc #privacy
-
 ### Use Cases
 
 [Sharing Personal Health Data to Improve Treatment of Chronic Conditions](use_case_sharing_personal_health_data_to_improve_treatment_of_chronic_conditions.md)
@@ -124,8 +119,6 @@ really, read as much as you can!)
   * "Believing that no single app or device provides all the information for an individual's health story, Open mHealth is focused on making patient-generated data from disparate sources accessible, developing the IEEE P1752 Standard for Mobile Health Data to harmonize and help make sense of digital health data. I would like to work with others to develop scenarios demonstrating how decentralized digital identity can help in protecting Personally Identifiable Information (PII), Personal Information (PI), and Protected Health 
 Information (PHI) while facilitating sharing of personal health data to improve monitoring and treatment of chronic conditions."
   * #use-case #open-mhealth #did #ieee-p1752
-
-Alphabetical Listing
 
 
 ## Alphabetical Listing
@@ -137,8 +130,10 @@ Alphabetical Listing
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [Digital Wallets: Interoperability support for multiple data hubs, data services and portability](digital-wallets-interoperability-support-for-multiple-data-hubs-data-services-and-portability.md)
 * [DID and the Web](DID_and_the_Web.md)
-* [Mapping adequacies:](mapping-adequacies.md)
+* [Interplanetary Linked Data (IPLD) using CBOR and COSE-signed payloads ](ipld-cbor.md)
+* [Mapping Adequacies](mapping-adequacies.md)
 * [Quantum Secure DIDs](QuantumSecureDIDs.md)
+* [An RWOT Animation Project](decentralized_animation_creative_brief.md)
 * [Sharing Personal Health Data to Improve Treatment of Chronic Conditions](use_case_sharing_personal_health_data_to_improve_treatment_of_chronic_conditions.md)
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
