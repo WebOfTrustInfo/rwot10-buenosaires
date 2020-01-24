@@ -121,10 +121,10 @@ If you would like to participate in shaping this work, there are multiple ways
 to participate:
 
 1. If you want weekly updates and are NOT a W3C Member, or want to participate
-   in the more experimental work, you should
+   in the maintenance of the specification, you should
    [join the Credentials Community Group](https://www.w3.org/community/wp-login.php?redirect_to=%2Fcommunity%2Fcredentials%2Fjoin). The W3C Credentials Community Group [holds weekly calls that are open to the public](https://w3c-ccg.github.io/).
-2. If you want weekly updates and are a W3C Member, you should
-   [join the Verifiable Claims Working Group](https://www.w3.org/2004/01/pp-impl/98922/join). The W3C Verifiable Credentials Working Group [holds weekly calls that are open to W3C Members](https://lists.w3.org/Archives/Member/member-vc-wg/2017Apr/0000.html).
+2. If you are a W3C Member and you want to approve maintenance proposals from the Credentials Community Group, you should
+   [join the Verifiable Credentials Working Group](https://www.w3.org/2004/01/pp-impl/98922/join). The W3C Verifiable Credentials Working Group is just getting started and will hold only occasional calls.
 3. We hold bi-yearly face-to-face meetings in the spring and fall at
    [Rebooting Web of Trust](http://www.weboftrust.info/)
    and once a year in the fall at the
