@@ -66,6 +66,11 @@ really, read as much as you can!)
   * "In this paper, I aim to discuss Concise Binary Object Representation (CBOR), which is the native data format used when storing IPLD objects and why it is a superior document syntax for representing DID documents.  In making my case, I will also explain how content addressing through hash-based linking is a better approach as compared to [JSON-LD]((https://www.w3.org/TR/json-ld/)) and how to cryptographically sign a CBOR data in IPLD using COSE."
   * #did #ipld #cbor #cose
 
+[Quantum Secure DIDs](QuantumSecureDIDs.md)
+  * by [Carsten Stöcer](https://spherity.com)
+  * "To address the risk of the advent of quantum computers for decentralized identity solutions, we propose to introduce a simple method using one-time signing keys and key rotation to protect our digital identity while using existing cryptographic ciphers for signing and hashing. Sam Smith's KERI is a potential candidate for implementing the proposed method. This approach shall allow us already today to prepare for the age of quantum attacks on our identity infrastructure."
+  * #did #KERI #KERL #Quantum #Computing #KeyRotation
+
 ### Ecosystem Development
 
 [Bearing Witness](bearing-witness.md)
@@ -119,8 +124,9 @@ really, read as much as you can!)
 * [Building a Self-Issued OpenID Connect Provider](building-a-self-issued-openid-connect-provider.md)
 * [Credential Types for Compliance](credential_types_for_compliance.md)
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
-* ]Digital Wallets: Interoperability support for multiple data hubs, data services and portability](digital-wallets-interoperability-support-for-multiple-data-hubs-data-services-and-portability.md)
+* [Digital Wallets: Interoperability support for multiple data hubs, data services and portability](digital-wallets-interoperability-support-for-multiple-data-hubs-data-services-and-portability.md)
 * [DID and the Web](DID_and_the_Web.md)
 * [Mapping adequacies:](mapping-adequacies.md)
+* [Quantum Secure DIDs](QuantumSecureDIDs.md)
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
