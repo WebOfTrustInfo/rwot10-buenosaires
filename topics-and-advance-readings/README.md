@@ -117,6 +117,17 @@ really, read as much as you can!)
   * "Using VCs and Trusted Execution Environment, Applications developers/providers can demonstrate to end-users that they indeed restrict access to their private data for the agreed-upon purpose and time duration."
   * #tee #vc #privacy
 
+### Use Cases
+
+[Sharing Personal Health Data to Improve Treatment of Chronic Conditions](use_case_sharing_personal_health_data_to_improve_treatment_of_chronic_conditions.md)
+  * by [Benay Dara-Abrams](mailto:benay@dara-abrams.com)
+  * "Believing that no single app or device provides all the information for an individual's health story, Open mHealth is focused on making patient-generated data from disparate sources accessible, developing the IEEE P1752 Standard for Mobile Health Data to harmonize and help make sense of digital health data. I would like to work with others to develop scenarios demonstrating how decentralized digital identity can help in protecting Personally Identifiable Information (PII), Personal Information (PI), and Protected Health 
+Information (PHI) while facilitating sharing of personal health data to improve monitoring and treatment of chronic conditions."
+  * #use-case #open-mhealth #did #ieee-p1752
+
+Alphabetical Listing
+
+
 ## Alphabetical Listing
 * [An Encrypted Data Vault Sprint](edv-sprint.md)
 * [An RWOT Animation Project](decentralized_animation_creative_brief.md)
@@ -128,5 +139,6 @@ really, read as much as you can!)
 * [DID and the Web](DID_and_the_Web.md)
 * [Mapping adequacies:](mapping-adequacies.md)
 * [Quantum Secure DIDs](QuantumSecureDIDs.md)
+* [Sharing Personal Health Data to Improve Treatment of Chronic Conditions](use_case_sharing_personal_health_data_to_improve_treatment_of_chronic_conditions.md)
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
