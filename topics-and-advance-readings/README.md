@@ -76,7 +76,7 @@ really, read as much as you can!)
   Can we build a compelling Self-Issued OpenID Connect Provider today.
   * #authentication #web #oidc
 
-]Digital Wallets: Interoperability support for multiple data hubs, data services and portability](digital-wallets-interoperability-support-for-multiple-data-hubs-data-services-and-portability.md)
+[Digital Wallets: Interoperability support for multiple data hubs, data services and portability](digital-wallets-interoperability-support-for-multiple-data-hubs-data-services-and-portability.md)
   * by [Ron Kreutzer](mailto:ron@pillarproject.io)
   * Multiple data hubs/vaults/lockers will likely exist in a user's identity ecosystem, and digital wallets must be able to interact with a variety of storage providers as well as data services that act upon this data. A set of standards or operating principles need to exist to allow interoperability as well as portability that allow a user to swap digital wallet providers.
   * #digitalwallet #datavault
