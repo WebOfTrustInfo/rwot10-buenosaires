@@ -120,6 +120,10 @@ really, read as much as you can!)
 Information (PHI) while facilitating sharing of personal health data to improve monitoring and treatment of chronic conditions."
   * #use-case #open-mhealth #did #ieee-p1752
 
+[Verifiable Credentials and Authenticated Media](verifiable-credentials-and-authenticated-media.md)
+  * by [Eric Scouten](mailto:scouten@adobe.com) and [Leonard Rosenthol](mailto:lrosenth@adobe.com)
+  * "In recent years, technology advances have made it increasingly easy to produce highly-realistic, but synthetic, digital media (photography, videography, audio recordings, etc.). In this same time frame, social media and other Internet technologies have gained prominence as a means for disseminating news, opinion, and digital media related to current events. Consumers of digital media have insufficient information available to them to distinguish legitimate reportage from misattributed or outright false media. We are interested in providing standards to allow legitimate media producers to state claims about their work and to allow motivated media consumers to verify those claims."
+  * #use-case #authenticated-media
 
 ## Alphabetical Listing
 * [An Encrypted Data Vault Sprint](edv-sprint.md)
@@ -136,4 +140,5 @@ Information (PHI) while facilitating sharing of personal health data to improve 
 * [An RWOT Animation Project](decentralized_animation_creative_brief.md)
 * [Sharing Personal Health Data to Improve Treatment of Chronic Conditions](use_case_sharing_personal_health_data_to_improve_treatment_of_chronic_conditions.md)
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
+* [Verifiable Credentials and Authenticated Media](verifiable-credentials-and-authenticated-media.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
