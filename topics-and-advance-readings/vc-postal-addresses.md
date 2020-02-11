@@ -53,18 +53,14 @@ securely make online transactions and access e-services. The framework
 includes core elements that define a basic trust framework for the
 creation, use and management of postal IDs and electronic credentials.
 This spans registration and enrollment procedures, identity proofing
-requirements, authentication methods, credential management,
-
-privacy and security requirements.
+requirements, authentication methods, credential management, privacy and security requirements.
 
 Third, EAD – Electronic Advance Declarations – is a proposal from the
 UPU to support sending goods consignments abroad. Information about the
 sender, recipient, content and consignment would thus be entered
 electronically and sent to the country of destination in advance of
 shipping. This is a standard that will be deployed globally within a
-year. Harmonization of the corresponding
-
-address labels allows the consignments to be sorted automatically and
+year. Harmonization of the corresponding address labels allows the consignments to be sorted automatically and
 faster. The label also helps tracking events to be recorded and ensures
 higher-quality track and trace.
 
