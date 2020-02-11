@@ -112,6 +112,13 @@ really, read as much as you can!)
   * "A list of suggestions on work that could be completed at RWOT10 to move the Encrypted Data Vault specification forward."
   * #ssi #storage #edv
 
+### Registries and Interoperability
+
+[Using Registries to Facilitate Interoperability](Using_Registries_to_Facilitate_Interoperability.md)
+  * by [Michael B. Jones](mailto:mbj@microsoft.com)
+  * This topic paper will explore how and why registries are used in practice to facilitate interoperability among software systems implementing a standard.
+  * #registries #interoperability #extensibility #experiences #lessons
+
 ### Use Cases
 
 [Sharing Personal Health Data to Improve Treatment of Chronic Conditions](use_case_sharing_personal_health_data_to_improve_treatment_of_chronic_conditions.md)
@@ -136,4 +143,5 @@ Information (PHI) while facilitating sharing of personal health data to improve 
 * [An RWOT Animation Project](decentralized_animation_creative_brief.md)
 * [Sharing Personal Health Data to Improve Treatment of Chronic Conditions](use_case_sharing_personal_health_data_to_improve_treatment_of_chronic_conditions.md)
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
+* [Using Registries to Facilitate Interoperability](Using_Registries_to_Facilitate_Interoperability.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
