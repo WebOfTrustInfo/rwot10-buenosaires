@@ -53,7 +53,7 @@ really, read as much as you can!)
 
 ### Confidential Computing
 
-[TEE & VC As Privacy Proofs](tee-privacy-vc.md)
+[TEE & e As Privacy Proofs](tee-privacy-vc.md)
   * by Tarek El-Gillani ([tarek@cloudmask.com](mailto:tarek@cloudmask.com))
   * "Using VCs and Trusted Execution Environment, Applications developers/providers can demonstrate to end-users that they indeed restrict access to their private data for the agreed-upon purpose and time duration."
   * #tee #vc #privacy
@@ -112,6 +112,13 @@ really, read as much as you can!)
   * "A list of suggestions on work that could be completed at RWOT10 to move the Encrypted Data Vault specification forward."
   * #ssi #storage #edv
 
+### Registries and Interoperability
+
+[Using Registries to Facilitate Interoperability](Using_Registries_to_Facilitate_Interoperability.md)
+  * by [Michael B. Jones](mailto:mbj@microsoft.com)
+  * This topic paper will explore how and why registries are used in practice to facilitate interoperability among software systems implementing a standard.
+  * #registries #interoperability #extensibility #experiences #lessons
+
 ### Use Cases
 
 [Sharing Personal Health Data to Improve Treatment of Chronic Conditions](use_case_sharing_personal_health_data_to_improve_treatment_of_chronic_conditions.md)
@@ -120,7 +127,12 @@ really, read as much as you can!)
 Information (PHI) while facilitating sharing of personal health data to improve monitoring and treatment of chronic conditions."
   * #use-case #open-mhealth #did #ieee-p1752
 
-
+### Verifiable Claims
+[Verifiable Claims for Postal Addresses: A Use Case for Decentralized Postal Services using DIDs, VCs and Blockchains](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/vc-postal-addresses.md)
+  * by Moses MA
+  * We propose to facilitate the collaborative drafting of a technical paper that describes the principles and key design considerations for verifiable “physical address” claims. The global postal network now seeks to understand the “decentralization revolution” and help to develop game-changing, blockchain-powered new business models for the world. We believe that, in turn, the active endorsement, support and participation of the global postal industry could provide a tipping point for adoption of DIDs and VCs. This is a first step toward that desired future.
+  * #did #vc #physical-address
+  
 ## Alphabetical Listing
 * [An Encrypted Data Vault Sprint](edv-sprint.md)
 * [An RWOT Animation Project](decentralized_animation_creative_brief.md)
@@ -136,4 +148,6 @@ Information (PHI) while facilitating sharing of personal health data to improve 
 * [An RWOT Animation Project](decentralized_animation_creative_brief.md)
 * [Sharing Personal Health Data to Improve Treatment of Chronic Conditions](use_case_sharing_personal_health_data_to_improve_treatment_of_chronic_conditions.md)
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
+* [Using Registries to Facilitate Interoperability](Using_Registries_to_Facilitate_Interoperability.md)
+* [Verifiable Claims for Postal Addresses: A Use Case for Decentralized Postal Services using DIDs, VCs and Blockchains](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/vc-postal-addresses.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
