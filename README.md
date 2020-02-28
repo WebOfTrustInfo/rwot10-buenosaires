@@ -1,4 +1,4 @@
-# Rebooting the Web of Trust X: Buenos Aires (March 2020)
+# Rebooting the Web of Trust X: Buenos Aires (March 2020) [CANCELLED]
 
 This repository contains documents related to RWOT10, the tenth
 Rebooting the Web of Trust design workshop, which will be held
@@ -8,7 +8,7 @@ The goal of the workshop is to generate five technical white papers
 and/or proposals on topics decided by the group that would have the 
 greatest impact on the future.
 
-If you'd like to join us, you can sign up at <a href="https://www.eventbrite.com/e/rebooting-the-web-of-trust-x-2020a-buenos-aires-tickets-87248431407">Eventbrite</a>.
+_RWOT10 has unfortunately been cancelled due to governmental and corporate concerns over the novel coronavirus (COVID-19). Please watch for announcement of RWOT11 this September; we are also considering whether to hold virtual events this March, during the RWOT10 dates._
 
 ## Topics & Advance Readings
 
