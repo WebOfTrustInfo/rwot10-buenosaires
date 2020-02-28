@@ -12,7 +12,7 @@ ___RWOT10 has unfortunately been cancelled due to governmental and corporate con
 
 ## Topics & Advance Readings
 
-Though RWOT10 was cancelled, you can still find papers in our [Topics & Advance Readings directory](topics-and-advance-readings) on interesting subjects. 
+Though RWOT10 was cancelled, you can still find papers in our [Topics & Advance Readings directory](topics-and-advance-readings) on interesting subjects. Read them over, consider what people are concerned about right now in the field, and think about whether you'd like to advance these topics at RWOT11.
 
 ## Topical Listing of Topcs & Advance Readings
 
