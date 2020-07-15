@@ -1,4 +1,4 @@
-# Rebooting the Web of Trust X (Spring 2019) Virtual Papers
+# Rebooting the Web of Trust X (Spring 2020) Virtual Papers
 
 _Though we were unable to have a design workshop, some planned participants produced collaborative papers virtually_.
 
