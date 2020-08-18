@@ -100,6 +100,11 @@ really, read as much as you can!)
   * Multiple data hubs/vaults/lockers will likely exist in a user's identity ecosystem, and digital wallets must be able to interact with a variety of storage providers as well as data services that act upon this data. A set of standards or operating principles need to exist to allow interoperability as well as portability that allow a user to swap digital wallet providers.
   * #digitalwallet #datavault
 
+[Hyperledger Aries plugins for the Universal Ledger Agent](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/hyperledger-aries-plugins-for-the-universal-ledger-agent.md)
+  * by [David Lamers](https://www.linkedin.com/in/lamersdavid/)
+  * The Universal Ledger Agent was built in order to create interoperability between SSI solutions and so a user friendly experience. We open sourced the ULA itself as well as modules for the holder and verifier to support the credentialing process. This paper describes how, besides verifiable credentials on Ethereum, integration was built for Hyperledger Aries.
+  * #ULA #interoperability #aries #opensource
+
 [Mapping Adequacies](mapping-adequacies.md)
   * by [Juan Caballero]("mailto:caballerojuan_AT_pm.me")
   * A set of heuristics that could help documentation of best-practices and not-best-practices be widely understood by technical and non-technical readers with a wide range of levels of experience and agendas.
@@ -142,6 +147,7 @@ Information (PHI) while facilitating sharing of personal health data to improve 
 * [Delegated Authorization - The Alice to Bob Use Case](delegated-authorization.md)
 * [Digital Wallets: Interoperability support for multiple data hubs, data services and portability](digital-wallets-interoperability-support-for-multiple-data-hubs-data-services-and-portability.md)
 * [DID and the Web](DID_and_the_Web.md)
+* [Hyperledger Aries plugins for the Universal Ledger Agent](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/hyperledger-aries-plugins-for-the-universal-ledger-agent.md)
 * [Interplanetary Linked Data (IPLD) using CBOR and COSE-signed payloads ](ipld-cbor.md)
 * [Mapping Adequacies](mapping-adequacies.md)
 * [Quantum Secure DIDs](QuantumSecureDIDs.md)
