@@ -127,6 +127,11 @@ really, read as much as you can!)
 Information (PHI) while facilitating sharing of personal health data to improve monitoring and treatment of chronic conditions."
   * #use-case #open-mhealth #did #ieee-p1752
 
+[Verifiable Credentials and Authenticated Media](verifiable-credentials-and-authenticated-media.md)
+  * by [Eric Scouten](mailto:scouten@adobe.com) and [Leonard Rosenthol](mailto:lrosenth@adobe.com)
+  * "In recent years, technology advances have made it increasingly easy to produce highly-realistic, but synthetic, digital media (photography, videography, audio recordings, etc.). In this same time frame, social media and other Internet technologies have gained prominence as a means for disseminating news, opinion, and digital media related to current events. Consumers of digital media have insufficient information available to them to distinguish legitimate reportage from misattributed or outright false media. We are interested in providing standards to allow legitimate media producers to state claims about their work and to allow motivated media consumers to verify those claims."
+  * #use-case #authenticated-media
+
 ### Verifiable Claims
 [Verifiable Claims for Postal Addresses: A Use Case for Decentralized Postal Services using DIDs, VCs and Blockchains](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/vc-postal-addresses.md)
   * by Moses MA
@@ -150,4 +155,5 @@ Information (PHI) while facilitating sharing of personal health data to improve 
 * [TEE & VC As Privacy Proofs](tee-privacy-vc.md)
 * [Using Registries to Facilitate Interoperability](Using_Registries_to_Facilitate_Interoperability.md)
 * [Verifiable Claims for Postal Addresses: A Use Case for Decentralized Postal Services using DIDs, VCs and Blockchains](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/vc-postal-addresses.md)
+* [Verifiable Credentials and Authenticated Media](verifiable-credentials-and-authenticated-media.md)
 * [Why Matrix Parameters?](why-matrix-parameters.md)
