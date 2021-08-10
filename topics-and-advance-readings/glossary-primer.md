@@ -70,13 +70,13 @@ __Holder:__ Someone who possesses credentials, usually (but not always) the subj
 
 __Hub:__ A datastore where objects are signed by a digital identity and accessible through unique global identifiers. See also ["Hubs"](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/hubs.pdf) and ["Identity Hub Attestation Flows and Components"](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/identity-hub-attestations.pdf).
 
-__Identifier:__ A proxy for identity that is used as a label to refer to the entity being represented. For example, a name or UID.
+__Identifier:__ A label that refers to an entity and can be used to establish or maintain an identity. For example, a name or UID.
 
-__Identity:__ Identity is a conceptual construct that enables the differentiation between distinct entities that are individually considered to be unique. An identity is not the entity that it represents.
+__Identity:__ A conceptual construct that enables the differentiation between distinct entities that are individually considered to be unique, but which may possess class or group characteristics. An identity gives these entities the ability to interact as peers in collaborative or competitive ways. An identity is not the entity that it represents.
 
-__Identity, Digital:__ A digital representation of identity.
+__Identity, Digital:__ A digital representation of an entity, managed by digital tools, over which that entity has personal or delegated control.
 
-__Identity, Functional:__ A model for identity that says, "identity is how we recognize, remember, and ultimately respond to specific people and things." See also ["A Primer on Functional Identity"](https://github.com/WebOfTrustInfo/rwot9/blob/master/topics-and-advance-readings/functional-identity-primer.md).
+__Identity, Functional:__ How we recognize, remember, and respond to specific people and things. See also ["A Primer on Functional Identity"](https://github.com/WebOfTrustInfo/rwot9/blob/master/topics-and-advance-readings/functional-identity-primer.md).
 
 __Issuer:__ Someone who asserts claims and issues them in credentials.
 
@@ -106,7 +106,7 @@ __Signature:__ A means for verifying the authenticity of a message or transactio
 
 __Smart Contract:__ A digital program, often associated with the transaction of cryptocurrency funds. Neither smart nor a contract.
 
-__SSI:__ _Self-sovereign identity._ A decentralized, portable digital identity that does not depend on any centralized authority. See also ["The Path to Self-Sovereign Identity"](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html).
+__SSI:__ _Self-sovereign identity._ A decentralized digital identity that does not depend on any centralized authority and whose information is portable. See also ["The Path to Self-Sovereign Identity"](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) and [Self-sovereign Identity: Five Years On](https://www.coindesk.com/self-sovereign-identity-five-years-on).
 
 __Subject:__ Someone who is the subject of claims.
 
